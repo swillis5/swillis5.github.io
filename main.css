@@ -8,6 +8,14 @@ ul {
   line-height: 2.5;
   font-size: 30px;
   font-weight:
+    
+    .center{
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 50%;
+      }
 
 }
 
