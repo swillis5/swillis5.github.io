@@ -10,7 +10,7 @@ ul {
   font-weight:
     
     .poopity {
-    display: block;
+    float: left;
     margin-right:auto;
     width: 100px;
     border-radius: 50%;
