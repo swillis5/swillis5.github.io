@@ -10,8 +10,9 @@ ul {
   font-weight:
     
     .poopity {
-    margin-left: auto;
-    width: 20%;
+    display: block;
+    margin-right:auto;
+    width: 100px;
     border-radius: 50%;
       }
 
